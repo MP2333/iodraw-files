@@ -72,6 +72,9 @@
         <mxCell id="podR4BB5Mlqli8btuVMS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="podR4BB5Mlqli8btuVMS-8" target="podR4BB5Mlqli8btuVMS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="podR4BB5Mlqli8btuVMS-8" target="podR4BB5Mlqli8btuVMS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-8" value="电影热度与评价分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="611" y="1030" width="140" height="60" as="geometry" />
         </mxCell>
