@@ -30,6 +30,9 @@
         <mxCell id="podR4BB5Mlqli8btuVMS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="podR4BB5Mlqli8btuVMS-3" target="podR4BB5Mlqli8btuVMS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="podR4BB5Mlqli8btuVMS-3" target="podR4BB5Mlqli8btuVMS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-3" value="可视化展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="399" y="630" width="140" height="60" as="geometry" />
         </mxCell>
