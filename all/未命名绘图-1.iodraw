@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="EeCP9kEH8COnc2ec5rfy">
-    <mxGraphModel dx="339" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-8" value="电影热度与评价分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="579" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-9" value="电影时间维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="589" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-10" value="电影基本信息展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="589" y="250" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
