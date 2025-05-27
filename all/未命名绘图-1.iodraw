@@ -13,7 +13,7 @@
         <mxCell id="podR4BB5Mlqli8btuVMS-3" value="可视化展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="podR4BB5Mlqli8btuVMS-4" value="可视化展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="podR4BB5Mlqli8btuVMS-4" value="电影创作者分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="500" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-5" value="电影地域维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
