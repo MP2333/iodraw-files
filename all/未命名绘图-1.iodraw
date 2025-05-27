@@ -54,7 +54,7 @@
         <mxCell id="podR4BB5Mlqli8btuVMS-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="podR4BB5Mlqli8btuVMS-6" target="podR4BB5Mlqli8btuVMS-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="podR4BB5Mlqli8btuVMS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="podR4BB5Mlqli8btuVMS-6" target="podR4BB5Mlqli8btuVMS-11">
+        <mxCell id="podR4BB5Mlqli8btuVMS-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="podR4BB5Mlqli8btuVMS-6" target="podR4BB5Mlqli8btuVMS-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-6" value="电影时间维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
