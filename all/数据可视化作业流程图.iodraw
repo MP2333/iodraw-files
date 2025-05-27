@@ -1,0 +1,117 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="EeCP9kEH8COnc2ec5rfy">
+    <mxGraphModel dx="1436" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="podR4BB5Mlqli8btuVMS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="660.2857142857142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-1" value="数据采集模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="38" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-2" target="podR4BB5Mlqli8btuVMS-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-2" value="数据处理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="211" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-3" target="podR4BB5Mlqli8btuVMS-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.651;exitY=0.019;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="podR4BB5Mlqli8btuVMS-3" target="podR4BB5Mlqli8btuVMS-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.57;exitY=0.038;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="podR4BB5Mlqli8btuVMS-3" target="podR4BB5Mlqli8btuVMS-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-3" target="podR4BB5Mlqli8btuVMS-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-3" target="podR4BB5Mlqli8btuVMS-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-3" value="可视化展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="399" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-4" target="podR4BB5Mlqli8btuVMS-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-4" target="podR4BB5Mlqli8btuVMS-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-4" value="电影创作者分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="611" y="830" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-5" target="podR4BB5Mlqli8btuVMS-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-5" value="电影地域维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="611" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-6" target="podR4BB5Mlqli8btuVMS-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-6" target="podR4BB5Mlqli8btuVMS-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-6" value="电影时间维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="611" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-7" target="podR4BB5Mlqli8btuVMS-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-7" target="podR4BB5Mlqli8btuVMS-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-7" value="电影基本信息展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="611" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-8" target="podR4BB5Mlqli8btuVMS-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-8" target="podR4BB5Mlqli8btuVMS-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-8" value="电影热度与评价分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="611" y="1030" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-9" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-10" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-11" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-12" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-13" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-14" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-15" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="880" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-16" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="780" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-17" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="1078" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-18" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="831" y="978" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="podR4BB5Mlqli8btuVMS-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="podR4BB5Mlqli8btuVMS-5" target="podR4BB5Mlqli8btuVMS-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
