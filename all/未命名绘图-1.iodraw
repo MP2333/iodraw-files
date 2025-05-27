@@ -10,8 +10,8 @@
         <mxCell id="podR4BB5Mlqli8btuVMS-2" value="数据处理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="podR4BB5Mlqli8btuVMS-3" value="数据采集模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="podR4BB5Mlqli8btuVMS-3" value="可视化展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
