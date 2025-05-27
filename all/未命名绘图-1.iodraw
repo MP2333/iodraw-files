@@ -14,49 +14,49 @@
           <mxGeometry x="399" y="630" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-4" value="电影创作者分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="579" y="830" width="140" height="60" as="geometry" />
+          <mxGeometry x="611" y="830" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-5" value="电影地域维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="579" y="630" width="140" height="60" as="geometry" />
+          <mxGeometry x="611" y="630" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-6" value="电影时间维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="579" y="430" width="140" height="60" as="geometry" />
+          <mxGeometry x="611" y="430" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-7" value="电影基本信息展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="579" y="230" width="140" height="60" as="geometry" />
+          <mxGeometry x="611" y="230" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-8" value="电影热度与评价分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="579" y="1030" width="140" height="60" as="geometry" />
+          <mxGeometry x="611" y="1030" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-9" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="280" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-10" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="180" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-11" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="480" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-12" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="380" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="380" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-13" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="680" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-14" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="580" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-15" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="880" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="880" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-16" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="780" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="780" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-17" value="电影时长分析展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="1078" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="1078" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-18" value="电影类型分布展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="799" y="978" width="160" height="60" as="geometry" />
+          <mxGeometry x="831" y="978" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
