@@ -20,10 +20,10 @@
           <mxGeometry x="579" y="630" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-6" value="电影时间维度分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="579" y="500" width="140" height="60" as="geometry" />
+          <mxGeometry x="579" y="430" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-7" value="电影基本信息展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="579" y="400" width="140" height="60" as="geometry" />
+          <mxGeometry x="579" y="230" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="podR4BB5Mlqli8btuVMS-8" value="电影热度与评价分析子模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="579" y="1030" width="140" height="60" as="geometry" />
